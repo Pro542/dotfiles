@@ -106,6 +106,9 @@ alias gladog="git log --all --decorate --oneline --graph"
 alias pr="hub pull-request -a pro542"
 alias gpsupr="gpsup && pr"
 alias prettyjson="python -m json.tool"
+alias kraken="hub release create -do -t master"
+alias s="yarn run storybook"
+alias j="yarn run jest --watch"
 
 # Load pyenv automatically
 eval "$(pyenv init -)"
