@@ -1,0 +1,46 @@
+{
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "extensions.ignoreRecommendations": true,
+    "workbench.editor.showTabs": true,
+    "window.zoomLevel": 0,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontFamily": "Fira Code",
+    "editor.fontWeight": "300",
+    "editor.fontLigatures": "'ss01','ss02','ss03','ss05','ss06'",
+    "workbench.colorTheme": "Default Light+",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorCustomizations": {
+        "terminal.background":"#1D2021",
+        "terminal.foreground":"#A89984",
+        "terminalCursor.background":"#A89984",
+        "terminalCursor.foreground":"#A89984",
+        "terminal.ansiBlack":"#1D2021",
+        "terminal.ansiBlue":"#0D6678",
+        "terminal.ansiBrightBlack":"#665C54",
+        "terminal.ansiBrightBlue":"#0D6678",
+        "terminal.ansiBrightCyan":"#8BA59B",
+        "terminal.ansiBrightGreen":"#95C085",
+        "terminal.ansiBrightMagenta":"#8F4673",
+        "terminal.ansiBrightRed":"#FB543F",
+        "terminal.ansiBrightWhite":"#FDF4C1",
+        "terminal.ansiBrightYellow":"#FAC03B",
+        "terminal.ansiCyan":"#8BA59B",
+        "terminal.ansiGreen":"#95C085",
+        "terminal.ansiMagenta":"#8F4673",
+        "terminal.ansiRed":"#FB543F",
+        "terminal.ansiWhite":"#A89984",
+        "terminal.ansiYellow":"#FAC03B"
+      }
+}
+
